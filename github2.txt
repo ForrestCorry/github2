@@ -1,1 +1,3 @@
 I dont think I like Java
+
+Hopefully by next week I will understand a little bit of it
